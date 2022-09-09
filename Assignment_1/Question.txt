@@ -1,0 +1,6 @@
+1. Write a shell script to Input TWO numbers and perform the following operations:
+Addition, Subtraction, Multiplication, Division and reminder.
+
+2. Write a shell script to check whether an input number is ODD or EVEN.
+3. Write a shell script to find MAXIMUM value from THREE numbers.
+4. Write a shell script to find SUM, AVERAGE and GRADE from marks of THREE subjects
